@@ -1,0 +1,2 @@
+# photomarathon
+Photo Marathons are photographic competitions where the competitors are given a set period of time to produce a number of images on given topics, 1 image per topic. E.g. 6 hours to produce 12 images on 12 given topics.  This software is designed to help with the organisation of a photo marathon, create a master topic list, randomly assign topics to contestants, deal with images as they are returned, upload to a central store etc.
